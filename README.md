@@ -1,4 +1,3 @@
-Jarvis Assistant Documentation
 The "Jarvis Assistant" is a simple voice-activated assistant program implemented in Python. It uses the pyttsx3 library for text-to-speech conversion, speech_recognition (SpeechRecognition) for speech recognition, and can perform various actions based on voice commands. Below is a detailed explanation of how the code works:
 Code Structure and Functionality:
     1. Initialization and Setup:
